@@ -1,0 +1,4 @@
+*.box
+.vagrant/
+Vagrantfile
+Hola.txt
